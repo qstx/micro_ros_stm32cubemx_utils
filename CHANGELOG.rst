@@ -2,8 +2,8 @@
 Changelog for package micro_ros_stmcube
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+5.0.1 (2024-06-03)
+------------------
 * Bump jazzy (`#145 <https://github.com/micro-ROS/micro_ros_stm32cubemx_utils/issues/145>`_)
 * Add UDP transport (`#134 <https://github.com/micro-ROS/micro_ros_stm32cubemx_utils/issues/134>`_) (`#135 <https://github.com/micro-ROS/micro_ros_stm32cubemx_utils/issues/135>`_)
   * Add UDP transport
